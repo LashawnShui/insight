@@ -3,7 +3,7 @@
  */
 import React from 'react';
 import { inject, observer } from 'mobx-react';
-import { Select, Switch, Input, Icon, Tooltip } from 'antd';
+import { Select, Switch, Input } from 'antd';
 
 const { Option } = Select;
 
